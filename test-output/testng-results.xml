@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89" started-at="2022-11-16T08:12:06Z" finished-at="2022-11-16T08:12:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89" started-at="2022-11-16T08:12:06Z" finished-at="2022-11-16T08:12:06Z">
+      <class name="org.testng.com.Suite2">
+        <test-method status="PASS" signature="tc100()[pri:0, instance:org.testng.com.Suite2@52169758]" name="tc100" duration-ms="13" started-at="2022-11-16T08:12:06Z" finished-at="2022-11-16T08:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc100 -->
+        <test-method status="PASS" signature="tc200()[pri:0, instance:org.testng.com.Suite2@52169758]" name="tc200" duration-ms="3" started-at="2022-11-16T08:12:06Z" finished-at="2022-11-16T08:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc200 -->
+        <test-method status="PASS" signature="tc300()[pri:0, instance:org.testng.com.Suite2@52169758]" name="tc300" duration-ms="3" started-at="2022-11-16T08:12:06Z" finished-at="2022-11-16T08:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc300 -->
+      </class> <!-- org.testng.com.Suite2 -->
+      <class name="org.testng.com.Suite1">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testng.com.Suite1@3eda0aeb]" name="tc1" duration-ms="2" started-at="2022-11-16T08:12:06Z" finished-at="2022-11-16T08:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testng.com.Suite1@3eda0aeb]" name="tc2" duration-ms="2" started-at="2022-11-16T08:12:06Z" finished-at="2022-11-16T08:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.testng.com.Suite1@3eda0aeb]" name="tc3" duration-ms="3" started-at="2022-11-16T08:12:06Z" finished-at="2022-11-16T08:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.testng.com.Suite1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
